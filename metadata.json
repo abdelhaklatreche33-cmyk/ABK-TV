@@ -1,0 +1,6 @@
+{
+  "name": "ABK TV",
+  "description": "Arabic premium cinematic video streaming & social community platform with stories, creators, and digital wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
